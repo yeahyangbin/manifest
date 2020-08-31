@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" alias="origin" fetch="http://rgit3.icatchtek.com/" />
+    <default remote="origin" revision="master" />
+
+    <project name="BpSC/v37" path="vi37" />
+    <project name="BpSC/stream" path="vi37/stream" />
+    <project name="BpSC/host" path="vi37/sphost" />
+	<project name="BpSC/mt7682" path="mt7682" />
+</manifest>
