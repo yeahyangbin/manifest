@@ -3,6 +3,6 @@
     <remote name="origin" alias="origin" fetch="https://github.com/yeahyangbin/" />
     <default remote="origin" revision="master" />
 
-    <project name="yeahyangbin/test1" path="test1" />
-    <project name="yeahyangbin/test2" path="test1/test2" />
+    <project name="test1" path="test1" />
+    <project name="test2" path="test1/test2" />
 </manifest>
